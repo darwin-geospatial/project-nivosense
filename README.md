@@ -18,7 +18,7 @@ Proyecto desarrollado para el **Cassini Hackathon** (abril 2026). Región inicia
 - **ML:** modelo de predicción de NDSI entrenado offline; salida en formato COG.
 - **Infra:** Google Cloud (Cloud Run + GCS + Artifact Registry + Cloud Build), región `europe-west1`.
 
-Detalle técnico completo en [ARCHITECTURE.md](ARCHITECTURE.md). Plan del fin de semana en [ROADMAP.md](ROADMAP.md). Briefing original del proyecto en [development_strategy.md](development_strategy.md).
+Detalle técnico completo en [ONTOLOGY.md](ONTOLOGY.md). Plan del fin de semana en [ROADMAP.md](ROADMAP.md). Briefing original del proyecto en [development_strategy.md](development_strategy.md).
 
 ## Equipo
 

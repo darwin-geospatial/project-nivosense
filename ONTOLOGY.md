@@ -1,4 +1,4 @@
-# Arquitectura
+# Ontología
 
 Documento vivo. Lo actualizamos a medida que las decisiones se consolidan durante el hackathon.
 
@@ -83,7 +83,7 @@ NivoSense/
 │   ├── cloudbuild.yaml   build + deploy API
 │   ├── deploy-web.sh     sync frontend a GCS
 │   └── SETUP.md          comandos gcloud para crear los recursos
-├── ARCHITECTURE.md
+├── ONTOLOGY.md
 ├── ROADMAP.md
 ├── README.md
 └── development_strategy.md
